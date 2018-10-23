@@ -1,5 +1,4 @@
 # hello-world
-first repository
 
 Barka da zuwa,
 
